@@ -14,4 +14,12 @@ gap <- gapminder
 #this code changes the data type of the country column (from factors to stings)
 gap$country <- as.character(gap$country)
 
-# 
+# question 1
+a<-137+614
+b<-39-81
+c<-17*14
+d<-107/12
+e<-13**4 
+f<-1783%%23 # remainder
+
+# question 2
